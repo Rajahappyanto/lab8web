@@ -2,6 +2,7 @@
 Tugas Pemograman web praktikum 8
 
 ## 1. Membuat Database: Studi Kasus Data Barang
+![img](https://github.com/luffy-arc/lab8web/blob/main/Screenshot%202023-11-28%20040430.png)
 ## 2. membuat data base/membuat tabel/menambahkan data
 ![img](https://github.com/luffy-arc/lab8web/blob/main/Screenshot%202023-11-28%20040613.png)
 ## 3. membuat file koneksi
